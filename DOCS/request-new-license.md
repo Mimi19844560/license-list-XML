@@ -3,7 +3,9 @@ The SPDX Legal Team appreciates proposals for new free and open source licenses 
 
 # How to request a new license or exception to the SPDX License List
 
-1.  Review the [license inclusion principles](license-inclusion-principles.md).
+1.  Review the [license inclusion principles](license-inclusion-principles.md).![M3_C3_A25_P30](https://github.com/user-attachments/assets/a44df742-2702-408e-bd53-a958a7cb1201)
+![chrome_screenshot_2024年12月3日 上午10_32_04  GMT+08_00](https://github.com/user-attachments/assets/15db68bd-9e3c-4835-ad24-1e7583a96963)
+
     * NOTE: Please refrain from submitting licenses that clearly do not meet these principles, for example, a license for which the text is not finalized or is a non-FOSS license only used for a small or personal project.
     * NOTE: Make sure the license isn't already on the SPDX License List. This [guidance](license-match.md) can help with this task.
 
